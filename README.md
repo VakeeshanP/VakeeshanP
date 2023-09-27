@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub repository! <br>I'm Vakeeshan, an undergraduate student at the University of Colombo School of Computing and a passionate Java developer. <br>This repository serves as a showcase of my Java projects and coding endeavors.
+Welcome to my GitHub repository! <br>I'm Vakeeshan, An undergraduate student at the University of Colombo School of Computing and a passionate Java developer. <br>This repository serves as a showcase of my Java projects and coding endeavors.
 
 
 ## 🌐 Socials:
